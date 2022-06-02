@@ -1,2 +1,3 @@
+> My first ever project using Vue!
 # what-is.gay
-A simple site explaining what the purpose of Pride month is.
+The simple guide to pride.
