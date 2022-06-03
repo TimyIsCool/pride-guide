@@ -56,7 +56,7 @@
   text-align: center;
 }
 .pride {
-  background: url(https://cdn.myprojects.lol/New%20Project%20%2836%29%20%281%29%20%281%29%20%281%29.png) 0 0 / cover no-repeat;
+  background: url(https://what-is.gay/pride.png) 0 0 / cover no-repeat;
   color: #de466c;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
