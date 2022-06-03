@@ -1,24 +1,16 @@
-# what-is-gay
+# what-is.gay
+> My first ever Vue project!
 
-## Project setup
-```
-npm install
-```
+The simple guide to pride!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Want to contribute?
+Make a pull request! I'm happy to take everyone's ideas into consideration.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Tech spec
+**Site built with**
+- Vue
+- Tailwind
 
-### Lints and fixes files
-```
-npm run lint
-```
+**Site hosted with**
+- Cloudflare Pages
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
