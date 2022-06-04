@@ -38,7 +38,7 @@
     <router-view />
 
     <div id="exitButton">
-      <button onclick="location.href='https://google.com'" class="exitButton">Exit site</button>
+      <button onclick="location.replace('https://google.com')" class="exitButton">Exit site</button>
     </div>
     
     <div class="mb-12 mt-2">
