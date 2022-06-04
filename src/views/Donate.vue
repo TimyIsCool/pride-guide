@@ -19,7 +19,7 @@
                   <h3 class="font-semibold">Disclaimer</h3>
 
                   <p class="text-sm text-yellow-700">
-                    We suggest these, however, feel free to donate to whichever charity you wish.
+                    We suggest these charities, however, feel free to donate to whichever charity you wish.
                   </p>
                 </div>
               </div>
