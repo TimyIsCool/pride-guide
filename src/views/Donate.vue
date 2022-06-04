@@ -65,7 +65,7 @@
                   <p class="font-bold">Trans Lifeline US & CA</p>
                 </div>
                 <div>
-                  <p>LGBT crisis hotlne</p>
+                  <p>LGBT crisis hotline</p>
                   <p><a href="https://www.translifeline.org/" class="underline">Website <i class="fas fa-link"></i></a></p>
                 </div>
               </div>
@@ -82,7 +82,7 @@
                   <p class="font-bold">It Gets Better Project</p>
                 </div>
                 <div>
-                  <p>LGBT crisis hotlne</p>
+                  <p>LGBT crisis hotline</p>
                   <p><a href="https://itgetsbetter.org/" class="underline">Website <i class="fas fa-link"></i></a></p>
                 </div>
               </div>
