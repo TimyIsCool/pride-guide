@@ -6,6 +6,26 @@
         <h1 class="text-2xl sm:text-3xl font-extrabold">Here are some charities we recommend donating to:</h1>
         <br>
 
+        <div class="sm:w-3/4 m-auto text-left">
+          <div class="mb-4 border-l-4 border-yellow-500 text-yellow-900 bg-yellow-100 rounded px-4 py-3">
+              <div class="flex items-start">
+                <div class="py-1">
+                  <svg class="fill-current h-6 w-6 mr-4 text-yellow-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                    <path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM9 5h2v6H9V5zm0 8h2v2H9v-2z" />
+                  </svg>
+                </div>
+
+                <div>
+                  <h3 class="font-semibold">Disclaimer</h3>
+
+                  <p class="text-sm text-yellow-700">
+                    We suggest these, however, feel free to donate to whichever charity you wish.
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+        
         <div class="w-2/3 m-auto">
           <div class="flex justify-center">
             <div class="flex items-center">
